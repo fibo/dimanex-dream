@@ -1,0 +1,11 @@
+{
+  "pages": [
+    {
+      "id": "order",
+      "jsx": "(props) => <React.Fragment><div>Hello {props.name}</div><DMX.Button>BE Button</DMX.Button></React.Fragment>",
+      "props": {
+        "name": "Dimanex"
+      }
+    }
+  ]
+}
